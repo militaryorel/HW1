@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "DCPathButton.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
